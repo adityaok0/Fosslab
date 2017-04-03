@@ -11,7 +11,7 @@ File Not Found
 The New Classlist File is : 
 anand
 chandran
-amrith
+aditya
 adu
 
 	
