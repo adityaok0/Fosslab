@@ -1,13 +1,13 @@
-[amrith@localhost Expt_6]$ ./addnames.sh classlist amrith
+[aditya@localhost Expt_6]$ ./addnames.sh classlist aditya
 The New Classlist File is : 
 anand
 chandran
-amrith
-[amrith@localhost Expt_6]$ ./addnames.sh classlist 
+aditya
+[aditya@localhost Expt_6]$ ./addnames.sh classlist 
 Enter Correct Number of Arguments : ./addnames.sh <classlist> <username>
-[amrith@localhost Expt_6]$ ./addnames.sh classfile amrith
+[aditya@localhost Expt_6]$ ./addnames.sh classfile aditya
 File Not Found
-[amrith@localhost Expt_6]$ ./addnames.sh classlist adu
+[aditya@localhost Expt_6]$ ./addnames.sh classlist adu
 The New Classlist File is : 
 anand
 chandran
